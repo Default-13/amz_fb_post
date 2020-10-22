@@ -1,0 +1,1 @@
+For grabbing a random lightning deal from amazon and copying the link for a facebook post
